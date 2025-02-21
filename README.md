@@ -1,23 +1,15 @@
-# PlayStation
+# PSJS
 
 PlayStation Emulator in JavaScript and WebAssembly.
 
-![alt screenshot](https://raw.githubusercontent.com/lrusso/PlayStation/main/PlayStation.png)
-
 ## Web:
 
-https://lrusso.github.io/PlayStation/PlayStation.htm
+Coming when I can get a site
 
-## Main differences with WasmPSX:
+## Main differences with lrusso's emulator:
 
-* Sound working.
-* Mute/unmute implementation.
-* The rendering fills the entire window.
-* File format validation.
-* Improved main screen.
-* Icons added for all the available options.
-* Internationalization (English and Spanish).
+i havent worked on this yet
 
 ## Based on the work of:
 
-https://github.com/js-emulators/wasmpsx
+https://github.com/lrusso/PlayStation which is based on the work of https://github.com/js-emulators/wasmpsx
